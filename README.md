@@ -1,6 +1,6 @@
 <!-- Header dengan animasi -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=596D48&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Farrel;Welcome+to+CodeDev!;Full+Stack+Developer;The+Odin+Project+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=596D48&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Renjio+Kazuki;Welcome+to+CodeDev!;Full+Stack+Developer;The+Odin+Project+Student" alt="Typing SVG" />
 </h1>
 
 <!-- Banner CodeDev -->
