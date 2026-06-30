@@ -14,7 +14,6 @@
 
 I'm **Renjiro Kazuki**, a passionate developer on a journey to master full-stack web development through **The Odin Project**. I believe in clean code, continuous learning, and building projects that solve real problems.
 
-- 🔭 I’m currently working on: **Odin Sign-Up Form**
 - 🌱 I’m currently learning: **Tailwind CSS, JavaScript, React**
 - 💬 Ask me about: **HTML, CSS, JavaScript, Git**
 - 📫 How to reach me: **[Email](mailto:cihuyh22@gmail.com)**
