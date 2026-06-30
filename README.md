@@ -39,8 +39,9 @@ I'm **Renjiro Kazuki**, a passionate developer on a journey to master full-stack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazumi500&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=596D48&icon_color=596D48&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazumi500&theme=dark&background=1a1a2e&ring=596D48&fire=596D48&currStreakLabel=596D48" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kazumi500&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Kazumi500&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kazumi500&layout=compact&theme=dark" alt="top-langs"/>
 </p>
 
 ---
